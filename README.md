@@ -26,7 +26,7 @@
 | Xinghao | 
 | Chengchun | 
 
-## Meeting schedule
+## Meeting Schedule
 
 ### Michaelmans Term
 
@@ -50,7 +50,7 @@ The reading group sessions take place every second **Monday, 13:00-14:00**, Leve
 | 4 | TBA      |    |         |
 | 5 | TBA       |     |        |
 
-## Paper sources
+## Paper Sources
 
 NeurIPS(NIPS) Proceedings: https://papers.nips.cc/
 
@@ -63,7 +63,7 @@ ICLR Proceedings: https://dblp1.uni-trier.de/db/conf/iclr/
 
 AAAI Proceedings: https://www.aaai.org/Press/Proceedings/proceedings.php
 
-## Tips for a good presentation
+## Tips for a Good Presentation
 
 * [Microsoft](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)
 * [EPFL](http://ica1www.epfl.ch/PS_files/paper.htm)
