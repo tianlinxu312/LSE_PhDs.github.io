@@ -1,5 +1,19 @@
 # LSE PhD Reading Group
 
+## Members of the group
+Christine
+Jialin
+Anica
+Despoina
+Yiliu
+Filippo
+Kaifang
+Patrick
+Sohoko
+Yirui
+Shakeel
+Tianlin
+
 ## Meeting schedule
 
 ### Michaelmans Term
