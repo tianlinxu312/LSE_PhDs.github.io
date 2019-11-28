@@ -1,29 +1,21 @@
 # LSE PhD Reading Group
 
 ## Members of the group
-Christine 
 
-Jialin
-
-Anica
-
-Despoina
-
-Yiliu
-
-Filippo
-
-Kaifang
-
-Patrick
-
-Sohoko
-
-Yirui
-
-Shakeel
-
-Tianlin
+| Name | Presentation Counts |
+|------|---------------------|
+| Christine | 0 |
+| Jialin | 0 |
+| Anica | 0 |
+|Despoina| 0 |
+|Yiliu| 1 |
+|Filippo| 0 |
+|Kaifang| 0 |
+|Patrick| 0 |
+|Sohoko| 0 |
+|Yirui| 0 |
+|Shakeel| 0 |
+|Tianlin| 1 |
 
 ## Meeting schedule
 
