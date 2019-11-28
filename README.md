@@ -1,8 +1,10 @@
 # LSE PhD Reading Group
 
 ## Members of the group
-Christine /n
+Christine 
+
 Jialin
+
 Anica
 Despoina
 Yiliu
