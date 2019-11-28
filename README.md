@@ -52,16 +52,16 @@ The reading group sessions take place every second **Monday, 13:00-14:00**, Leve
 
 ## Paper Sources
 
-NeurIPS(NIPS) Proceedings: https://papers.nips.cc/
+[NeurIPS(NIPS) Proceedings](https://papers.nips.cc/)
 
 
-ICML, AISTATS and etc.: http://proceedings.mlr.press/
+[ICML, AISTATS and etc.](http://proceedings.mlr.press/)
 
 
-ICLR Proceedings: https://dblp1.uni-trier.de/db/conf/iclr/
+[ICLR Proceedings](https://dblp1.uni-trier.de/db/conf/iclr/)
 
 
-AAAI Proceedings: https://www.aaai.org/Press/Proceedings/proceedings.php
+[AAAI Proceedings](https://www.aaai.org/Press/Proceedings/proceedings.php)
 
 ## Tips for a Good Presentation
 
