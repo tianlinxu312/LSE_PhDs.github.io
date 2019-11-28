@@ -50,7 +50,7 @@ The reading group sessions take place every second **Monday, 13:00-14:00**, Leve
 | 4 | TBA      |    |         |
 | 5 | TBA       |     |        |
 
-## Papers 
+## Paper sources
 
 NeurIPS(NIPS) Proceedings: https://papers.nips.cc/
 
