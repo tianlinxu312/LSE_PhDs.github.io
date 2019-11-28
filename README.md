@@ -1,6 +1,6 @@
 # LSE PhD Reading Group
 
-## Members of the group
+## Student Members
 
 | Name | Presentation Counts |
 |------|---------------------|
@@ -16,6 +16,15 @@
 |Yirui| 0 |
 |Shakeel| 0 |
 |Tianlin| 1 |
+
+## Staff Members
+| Name |  |
+|------|---------------------|
+| Milan |  |
+| Kostas |  |
+| Yining | |
+| Xinghao |  |
+| Chengchun |  |
 
 ## Meeting schedule
 
