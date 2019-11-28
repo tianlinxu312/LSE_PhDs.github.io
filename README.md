@@ -1,4 +1,4 @@
-# LSE PhD Reading Group
+# LSE PhD Machine Learning Reading Group
 
 ## Student Members
 
@@ -49,6 +49,7 @@ The reading group sessions take place every second **Monday, 13:00-14:00**, Leve
 | 3 |  TBA   |   |     |
 | 4 | TBA      |    |         |
 | 5 | TBA       |     |        |
+
 
 ## Paper Sources
 
