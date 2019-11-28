@@ -6,14 +6,23 @@ Christine
 Jialin
 
 Anica
+
 Despoina
+
 Yiliu
+
 Filippo
+
 Kaifang
+
 Patrick
+
 Sohoko
+
 Yirui
+
 Shakeel
+
 Tianlin
 
 ## Meeting schedule
