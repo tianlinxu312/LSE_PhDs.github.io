@@ -1,7 +1,7 @@
 # LSE PhD Reading Group
 
 ## Members of the group
-Christine
+Christine /n
 Jialin
 Anica
 Despoina
