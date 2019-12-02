@@ -4,7 +4,7 @@
 
 | Name | Presentation Counts |
 |------|---------------------|
-| Christine | 0 |
+| Christine | 1 |
 | Jialin | 0 |
 | Anica | 0 |
 |Despoina| 0 |
