@@ -15,6 +15,7 @@
 |Sohoko| 0 |
 |Yirui| 0 |
 |Shakeel| 0 |
+|Camilo| 0 |
 |Tianlin| 1 |
 
 ## Staff Members
