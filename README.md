@@ -19,7 +19,7 @@
 |Tianlin| 1 |
 
 ## Staff Members
-Milan, Kostas,Yining, Xinghao, Chengchun
+Milan, Kostas, Yining, Xinghao, Chengchun
 
 ## Meeting Schedule
 
