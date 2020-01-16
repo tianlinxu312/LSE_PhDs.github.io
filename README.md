@@ -36,7 +36,7 @@ The reading group sessions take place every second **Monday, 13:00-14:00**, Leve
 
 
 ### Lent Term
-
+The reading group sessions take place every second **Wednesday, 12:30-14:00**, Leverhulme library, Department of Statistics, 6th Floor, Columbia House. **Lunch** will also be available.
 
 | # | Date                      | Topic                                                             | Discussion lead |
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
