@@ -4,9 +4,9 @@
 
 | Name | Presentation Counts |
 |------|---------------------|
-| Christine | 1 |
-| Jialin | 0 |
-| Anica | 0 |
+|Christine| 1 |
+|Jialin| 0 |
+|Anica| 0 |
 |Despoina| 0 |
 |Yiliu| 1 |
 |Filippo| 0 |
@@ -16,6 +16,7 @@
 |Yirui| 0 |
 |Shakeel| 0 |
 |Camilo| 0 |
+|Junyi| 0 |
 |Tianlin| 1 |
 
 ## Staff Members
@@ -39,11 +40,11 @@ The reading group sessions take place every second **Monday, 13:00-14:00**, Leve
 
 | # | Date                      | Topic                                                             | Discussion lead |
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
-| 1 | TBA         |   |   |
-| 2 | TBA       |   |  |
-| 3 |  TBA   |   |     |
-| 4 | TBA      |    |         |
-| 5 | TBA       |     |        |
+| 1 | 5th Feb, 2020         |   |   |
+| 2 | 19th Feb, 2020     |   |  |
+| 3 | 4th Mar, 2020  |   |     |
+| 4 | 18th Mar, 2020      |    |         |
+| 5 | 1st Apr, 2020     |     |        |
 
 
 ## Paper Sources
