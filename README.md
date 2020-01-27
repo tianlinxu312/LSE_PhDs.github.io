@@ -12,7 +12,7 @@
 |Filippo| 0 |
 |Kaifang| 0 |
 |Patrick| 0 |
-|Sohoko| 0 |
+|Sahoko| 0 |
 |Yirui| 0 |
 |Shakeel| 0 |
 |Camilo| 0 |
