@@ -40,7 +40,7 @@ The reading group sessions take place every second **Wednesday, 12:30-14:00**, L
 
 | # | Date                      | Topic                                                             | Discussion lead |
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
-| 1 | 5th Feb, 2020         |   |Jialin Yi|
+| 1 | 5th Feb, 2020         | [A Tutorial on Thompson Sampling](https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf) |Jialin Yi|
 | 2 | 19th Feb, 2020     |   | Kaifang Zhou  |
 | 3 | 4th Mar, 2020  |   |     |
 | 4 | 18th Mar, 2020      |    |Sahoko Ishida|
