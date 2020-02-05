@@ -5,7 +5,7 @@
 | Name | Presentation Counts |
 |------|---------------------|
 |Christine| 1 |
-|Jialin| 0 |
+|Jialin| 1 |
 |Anica| 0 |
 |Despoina| 0 |
 |Yiliu| 1 |
@@ -42,7 +42,7 @@ The reading group sessions take place every second **Wednesday, 12:30-14:00**, L
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
 | 1 | 5th Feb, 2020         | [A Tutorial on Thompson Sampling](https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf) |Jialin Yi|
 | 2 | 19th Feb, 2020     |   | Kaifang Zhou  |
-| 3 | 4th Mar, 2020  |   |     |
+| 3 | 4th Mar, 2020  |   | Patrick Aschermayr |
 | 4 | 18th Mar, 2020      |    |Sahoko Ishida|
 | 5 | 1st Apr, 2020     |     |Shakeel Gavioli-Akilagun|
 
