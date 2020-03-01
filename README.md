@@ -42,7 +42,7 @@ The reading group sessions take place every second **Wednesday, 12:30-14:00**, L
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
 | 1 | 5th Feb, 2020         | [A Tutorial on Thompson Sampling](https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf) |Jialin Yi|
 | 2 | 19th Feb, 2020     | [Learning Deep Kernels for Exponential Family Densities](https://arxiv.org/pdf/1811.08357.pdf)  | Kevin Li(External: Gatsby Unit)  |
-| 3 | 4th Mar, 2020  |   | Patrick Aschermayr |
+| 3 | 4th Mar, 2020  |  [Automatic Differentiation Variational Inference](https://arxiv.org/pdf/1603.00788.pdf) | Patrick Aschermayr |
 | 4 | 18th Mar, 2020      |    |Sahoko Ishida|
 | 5 | 1st Apr, 2020     |     |Shakeel Gavioli-Akilagun|
 
