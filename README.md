@@ -47,6 +47,18 @@ The reading group sessions take place every second **Wednesday, 12:30-14:00**, L
 | 5 | 1st Apr, 2020     |  Cancelled   |Shakeel Gavioli-Akilagun|
 
 
+### Summer Term
+TBC
+
+| # | Date                      | Topic                                                             | Discussion lead |
+|---|---------------------------|-------------------------------------------------------------------|-----------------|
+| 1 | TBC   |    |Sahoko Ishida|
+| 2 | TBC   |  | Shakeel Gavioli-Akilagun |
+| 3 | TBC|  |  |
+| 4 | TBC     |   | |
+| 5 | TBC     |   | |
+
+
 ## Paper Sources
 
 [NeurIPS(NIPS) Proceedings](https://papers.nips.cc/)
