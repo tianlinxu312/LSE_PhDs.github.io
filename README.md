@@ -55,7 +55,7 @@ The reading group sessions take place every second **Monday, 14:00-15:00**, via 
 | 1 | 28th Sep, 2020   |    |Sahoko Ishida|
 | 2 | 12th Oct, 2020   |  | Shakeel Gavioli-Akilagun |
 | 3 | 26th Oct, 2020 |  |  |
-| 4 | 9th Nov, 2020  |   | |
+| 4 | 9th Nov, 2020  |   | Kaifang Zhou|
 | 5 | 23th Nov, 2020  |   | |
 
 
