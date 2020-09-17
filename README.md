@@ -24,7 +24,7 @@ Milan, Kostas, Yining, Xinghao, Chengchun
 
 ## Meeting Schedule
 
-### Michaelmans Term
+### Michaelmans Term 2019-2020
 
 The reading group sessions take place every second **Monday, 13:00-14:00**, Leverhulme library, Department of Statistics, 6th Floor, Columbia House. **Lunch** will also be available.
 
@@ -35,7 +35,7 @@ The reading group sessions take place every second **Monday, 13:00-14:00**, Leve
 | 3 |  2nd Dec, 2019    |[Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)|  Christine Yuen |
 
 
-### Lent Term
+### Lent Term 2019-2020
 The reading group sessions take place every second **Wednesday, 12:30-14:00**, Leverhulme library, Department of Statistics, 6th Floor, Columbia House. **Lunch** will also be available.
 
 | # | Date                      | Topic                                                             | Discussion lead |
@@ -46,17 +46,17 @@ The reading group sessions take place every second **Wednesday, 12:30-14:00**, L
 | 4 | 18th Mar, 2020      |  Cancelled  |Sahoko Ishida|
 | 5 | 1st Apr, 2020     |  Cancelled   |Shakeel Gavioli-Akilagun|
 
+### Michaelmans Term 2020-2021
 
-### Summer Term
-TBC
+The reading group sessions take place every second **Monday, 14:00-15:00**, via **Zoom**.  
 
 | # | Date                      | Topic                                                             | Discussion lead |
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
-| 1 | TBC   |    |Sahoko Ishida|
-| 2 | TBC   |  | Shakeel Gavioli-Akilagun |
-| 3 | TBC|  |  |
-| 4 | TBC     |   | |
-| 5 | TBC     |   | |
+| 1 | 28th Sep, 2020   |    |Sahoko Ishida|
+| 2 | 12th Oct, 2020   |  | Shakeel Gavioli-Akilagun |
+| 3 | 26th Oct, 2020 |  |  |
+| 4 | 09th Nov, 2020  |   | |
+| 5 | 23th Nov, 2020  |   | |
 
 
 ## Paper Sources
