@@ -56,7 +56,7 @@ The reading group sessions take place every second **Monday, 14:00-15:00**, via 
 | 2 | 12th Oct, 2020   | [Deep State Space Models for Time Series Forecasting](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf) | Shakeel Gavioli-Akilagun |
 | 3 | 26th Oct, 2020 | Random Forest | Despoina Makariou |
 | 4 | 9th Nov, 2020  |   | Kaifang Zhou|
-| 5 | 23th Nov, 2020  |   | |
+| 5 | 23th Nov, 2020  |   | Christine Yuen |
 
 
 ## Paper Sources
