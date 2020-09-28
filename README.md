@@ -12,12 +12,13 @@
 |Filippo| 0 |
 |Kaifang| 0 |
 |Patrick| 1 |
-|Sahoko| 0 |
+|Sahoko| 1 |
 |Yirui| 0 |
 |Shakeel| 0 |
 |Camilo| 0 |
 |Junyi| 0 |
 |Tianlin| 1 |
+|Weilin| 0 |
 
 ## Staff Members
 Milan, Kostas, Yining, Xinghao, Chengchun
@@ -48,7 +49,7 @@ The reading group sessions take place every second **Wednesday, 12:30-14:00**, L
 
 ### Michaelmans Term 2020-2021
 
-The reading group sessions take place every second **Monday, 14:00-15:00**, via **Zoom**.  
+The reading group sessions take place every second **Wednesday, 15:00-16:00**, via **Zoom**.  
 
 | # | Date                      | Topic                                                             | Discussion lead |
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
@@ -56,7 +57,7 @@ The reading group sessions take place every second **Monday, 14:00-15:00**, via 
 | 2 | 12th Oct, 2020   | [Deep State Space Models for Time Series Forecasting](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf) | Shakeel Gavioli-Akilagun |
 | 3 | 26th Oct, 2020 | [A Random Forest Guided Tour](https://arxiv.org/pdf/1511.05741.pdf) | Despoina Makariou |
 | 4 | 9th Nov, 2020  |   | Kaifang Zhou|
-| 5 | 23th Nov, 2020  |   | Christine Yuen |
+| 5 | 23th Nov, 2020  |   | Anica Kostic|
 
 
 ## Paper Sources
