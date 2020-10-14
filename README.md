@@ -14,7 +14,7 @@
 |Patrick| 1 |
 |Sahoko| 1 |
 |Yirui| 0 |
-|Shakeel| 0 |
+|Shakeel| 1 |
 |Camilo| 0 |
 |Junyi| 0 |
 |Tianlin| 1 |
