@@ -57,7 +57,7 @@ The reading group sessions take place every second **Wednesday, 15:00-16:00**, v
 | 2 | 14th Oct, 2020   | [Deep State Space Models for Time Series Forecasting](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf) | Shakeel Gavioli-Akilagun |
 | 3 | 28th Oct, 2020 | [A Random Forest Guided Tour](https://arxiv.org/pdf/1511.05741.pdf) | Despoina Makariou |
 | 4 | 11th Nov, 2020  |   | Kaifang Zhou|
-| 5 | 25th Nov, 2020  |   | Anica Kostic|
+| 5 | 25th Nov, 2020  | [Topological Data Analysis](https://arxiv.org/pdf/1609.08227.pdf) and [Harnessing the power of Topological Data Analysis to detect change points in time series](https://arxiv.org/pdf/1910.12939.pdf)  | Anica Kostic|
 
 
 ## Paper Sources
