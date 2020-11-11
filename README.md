@@ -16,7 +16,6 @@
 |Yirui| 0 |
 |Shakeel| 1 |
 |Camilo| 0 |
-|Junyi| 0 |
 |Tianlin| 1 |
 |Weilin| 0 |
 
