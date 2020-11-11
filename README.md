@@ -10,7 +10,7 @@
 |Despoina| 1 |
 |Yiliu| 1 |
 |Filippo| 0 |
-|Kaifang| 0 |
+|Kaifang| 1 |
 |Patrick| 1 |
 |Sahoko| 1 |
 |Yirui| 0 |
